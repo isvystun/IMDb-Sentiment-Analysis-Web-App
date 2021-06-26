@@ -8,5 +8,5 @@ A PyTorch LSTM model for Sentiment Analysis deployed with AWS SageMaker.
 * AWS Lambda Function
     > aws_lambda.py   
 
-![Positive Review](/pos_review.png)   
-![Negative Review](/neg_review.png)
+![Positive Review](/pos_review.PNG)   
+![Negative Review](/neg_review.PNG)
