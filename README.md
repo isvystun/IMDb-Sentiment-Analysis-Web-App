@@ -1,8 +1,5 @@
 A PyTorch LSTM model for Sentiment Analysis deployed with AWS SageMaker.
 
-# Deployment notebook
-## SageMaker Project.ipynb
-
 * AWS SageMaker Deployment Notebook
     > SageMaker Project.ipynb
 * AWS Lambda Function
